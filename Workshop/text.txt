@@ -1,2 +1,6 @@
 guitar
+<<<<<<< HEAD
 art
+=======
+ink
+>>>>>>> edb27ef3c2b938af486e3da11602876dd5b06321
